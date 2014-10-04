@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.imageAndText {position: relative;} 
+.imageAndText .col {position: absolute; z-index: 1; top: 0; left: 0;}
+media.col-sm-12 {
+	font size: 20;
+	font-style: ;
+}
