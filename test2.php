@@ -12,15 +12,7 @@
 		
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/specific.css" rel="stylesheet">
-		
-		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 		<script src="./Starter Template for Bootstrap_files/ie10-viewport-bug-workaround.js"></script>
-		
-		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
 	</head>
 	<body>
 		<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -43,25 +35,7 @@
 		    </div><!--/.nav-collapse -->
 		  </div>
 		</div>
-		
-		<div class="imageAndText">
-			<img src="img/Header.png" class="img-responsive" alt="Responsive image">
-		    <div class="col">
-		        <div class="col-sm-12">
-		            <p style="font-family:arial;color:#b6e2f0;text-shadow: 2px 2px #202631;font-size:80px;">
-		            	Colden Johanson
-		            </p>
-		        </div>
-		    </div>
-		</div>
-		
-		<div class="container">
-	      <div class="starter-template">
-	        <p class="lead">I am a programmer, data scientist, baseball fan<br>... and all around nerd.</p>
-	      </div>
-	    </div><!-- /.container -->
-		
-		<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+		<script src="../js/jquery.js"></script>
+		<script src="../js/bootstrap.min.js"></script>
 	</body>
 </html>
