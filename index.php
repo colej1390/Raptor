@@ -29,7 +29,7 @@
 			<img src="img/Header.png" class="img-responsive" alt="Responsive image">
 		    <div class="col">
 		        <div class="col-sm-12">
-		            <p style="font-family:arial;color:#b6e2f0;text-shadow: 2px 2px #202631;font-size:80px;">
+		            <p style="font-family:arial;color:#d8365d;text-shadow: 2px 2px #202631;font-size:80px;">
 		            	Colden Johanson
 		            </p>
 		        </div>
